@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649420111 source:c:\users\wcgwy\onedrive - the university of manchester\ee year 3\semester 2\computer systems architecture\coursework\cache\gwynne_10238910_csa_simulator.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<inttypes.h>
+	<math.h>
+
